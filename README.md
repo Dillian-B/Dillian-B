@@ -8,7 +8,7 @@ After quitting my job as a welder, I knew I wanted to do something more with com
 
 *   🌍  I'm based in Washington State
 *   ✉️  You can contact me at [dbonagofski@gmail.com](mailto:dbonagofski@gmail.com)
-*   🧠  I'm learning how to use Unreal Engine in hopes of creating an enjoyable game for others to play!
+*   🧠  I'm learning how to use Unreal Engine and blender in hopes of creating an enjoyable game for others to play!
 *   🤝  I'm open to collaborating on projects.
 
 ### Skills 
