@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student
 ----------
 
-After quitting my job as a welder, I knew I wanted to do something more with computers. I eventually got enrolled into a community college and started my pathway into the field of Computer Science.
+I'm an aspiring computer scientist who is passionate about learning, solving problems, and collaborating with others. Currently, I'm still in college, but that doesn't mean I'm not eager to expand my knowledge in programming, algorithms, and software development! Whether it's through personal projects or working with open-source communities, I'm always open for opportunities to grow and contribute. Feel free to message me, and be sure to check out my work.
 
 *   🌍  I'm based in Washington State
 *   ✉️  You can contact me at [dbonagofski@gmail.com](mailto:dbonagofski@gmail.com)
-*   🧠  I'm learning how to use Unreal Engine and blender in hopes of creating an enjoyable game for others to play!
+*   🧠  I'm learning how to use Unreal Engine and Blender in hopes of growing my understanding of game engines and 3D modelling.
 *   🤝  I'm open to collaborating on projects.
 
 ### Skills 
